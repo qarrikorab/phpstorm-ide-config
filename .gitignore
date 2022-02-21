@@ -1,1 +1,16 @@
-/vendor/
+/colors/
+/consoles/
+/disabled_*
+/extensions/
+/javascript/
+/jdbc-drivers/
+/options
+!/options/editor.xml
+/plugins/
+/port
+/port.lock
+/tasks/
+/user.web.token
+/workspace/
+
+*.key
