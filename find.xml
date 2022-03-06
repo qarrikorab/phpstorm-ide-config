@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/Modules/Network/Models/Trainer.php'" />
-    <option name="defaultScopeName" value="File '…/Modules/Network/Models/Trainer.php'" />
-    <option name="SEARCH_SCOPE" value="File '…/Modules/Network/Models/Trainer.php'" />
+    <option name="customScope" value="File '…/app/Services/Order.php'" />
+    <option name="defaultScopeName" value="File '…/app/Services/Order.php'" />
+    <option name="SEARCH_SCOPE" value="File '…/app/Services/Order.php'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
