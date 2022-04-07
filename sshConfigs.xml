@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="164.92.229.103" id="c14b4e30-b962-4096-8a58-57697ad2f0fe" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="root@164.92.229.103" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="root@164.92.229.103" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
